@@ -17,6 +17,7 @@ public class GitTest {
         System.out.println("hello git3!"); //一旦代码修改后,会显示蓝色, 也可以直接提交本地库
         System.out.println("hello git4!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
 
     }
 }
