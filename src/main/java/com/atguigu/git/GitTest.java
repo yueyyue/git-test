@@ -13,6 +13,8 @@ public class GitTest {
      */
     public static void main(String[] args) {
         System.out.println("hello git!");
-        System.out.println("hello git2!"); //一旦代码修改后,会显示蓝色, 证明被追踪过
+        System.out.println("hello git2!"); //一旦代码修改后,会显示蓝色, 证明被追踪过 添加暂存区,提交本地库
+        System.out.println("hello git3!"); //一旦代码修改后,会显示蓝色, 也可以直接提交本地库
+
     }
 }
